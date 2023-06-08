@@ -3,14 +3,9 @@ Level up🌟 by communicating with other developers!
 I'm Youngmin Cho, Front-End developer from Republic of Korea.
 
 # 💪 Skill
-<img alt="HTML" src ="https://img.shields.io/badge/-HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="CSS" src ="https://img.shields.io/badge/-CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img alt="JQuery" src ="https://img.shields.io/badge/-Jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>  
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-<img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black"/>
+<img alt="HTML" src ="https://img.shields.io/badge/-HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/-CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JQuery" src ="https://img.shields.io/badge/-Jquery-0769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>  
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 ## 📚 Learning
