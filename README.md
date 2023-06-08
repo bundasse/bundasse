@@ -1,7 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there&desc=FrontEnd%20Developer%20Young%20min%20Cho&fontColor=ffffff&fontSize=50&descSize=20)
 # Hi there!👋
 
 Level up🌟 by communicating with other developers!  
-I'm Youngmin Cho, Front-End developer from Republic of Korea.
+I'm Young-min Cho, Front-End developer from Republic of Korea.
 
 누구나 쉽게 쓸 수 있는 웹을 만들고 싶은,  
 교류와 소통으로 레벨업 하는  
