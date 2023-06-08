@@ -27,4 +27,4 @@ I'm Youngmin Cho, Front-End developer from Republic of Korea.
 
 # 📫 Contact
 💌 ymtotolove@gmail.com
-🏠 [Portfolio Page](http://bundasse.dothome.co.kr/portfolio/)
+🏠 [Portfolio Page](http://bundasse.dothome.co.kr/portfolio/) : Korean
