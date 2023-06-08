@@ -23,7 +23,7 @@ I'm Young-min Cho, Front-End developer from Republic of Korea.
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
 #### 💖 I enjoy...
-🎞 movie , 🎨 drawing, 🎸playing guitar, and 🎲TRPG!(usually play Japanese TRPG)  
+🎞 movie , 🎨 drawing, 🎸playing guitar, and 🎲TRPG!(usually play Japanese TRPG)
 
 # 📫 Contact
 💌 ymtotolove@gmail.com  
