@@ -1,7 +1,11 @@
 # Hi there!👋
 
-Level up🌟 by communicating with other developers!
+Level up🌟 by communicating with other developers!  
 I'm Youngmin Cho, Front-End developer from Republic of Korea.
+
+누구나 쉽게 쓸 수 있는 웹을 만들고 싶은,  
+교류와 소통으로 레벨업 하는  
+프론트엔드 개발자 조영민입니다.
 
 ***
 ## 💪 Skill
