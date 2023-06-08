@@ -13,10 +13,10 @@ I'm Youngmin Cho, Front-End developer from Republic of Korea.
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-### 📚 Learning
+- 📚 Learning
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### 💭 Interest
+- 💭 Interest
 <img alt="React" src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 ## 🔨 Tools
