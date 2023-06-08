@@ -26,5 +26,5 @@ I'm Youngmin Cho, Front-End developer from Republic of Korea.
 🎞 movie , 🎨 drawing, 🎸playing guitar, and 🎲TRPG!(usually play Japanese TRPG)
 
 # 📫 Contact
-💌 ymtotolove@gmail.com
+💌 ymtotolove@gmail.com  
 🏠 [Portfolio Page](http://bundasse.dothome.co.kr/portfolio/) : Korean
