@@ -13,16 +13,16 @@ I'm Youngmin Cho, Front-End developer from Republic of Korea.
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-- 📚 Learning
+#### 📚 Learning
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-- 💭 Interest
+#### 💭 Interest
 <img alt="React" src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 ## 🔨 Tools
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
-### 💖 I enjoy...
+#### 💖 I enjoy...
 🎞 movie , 🎨 drawing, 🎸playing guitar, and 🎲TRPG!(usually play Japanese TRPG)
 
 # 📫 Contact
