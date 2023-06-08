@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=500&section=header&text=Hi%20there&desc=Front-end%20Developer%20Young%20min%20Cho&fontColor=ffffff&fontSize=50&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there&desc=Front-end%20Developer%20Young%20min%20Cho&fontColor=ffffff&fontSize=50&descSize=20)
 
 Level up🌟 by communicating with other developers!  
 I'm Young-min Cho, Front-End developer from Republic of Korea.
